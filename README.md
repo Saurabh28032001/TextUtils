@@ -1,10 +1,9 @@
 # TextUtils
-TextUtils is a free character counter tool that provides instant character count &amp; word count statistics for a given text.
+This project is made using HTML, CSS and React framework of Javascript.
 
 # Free to Use
 TextUtils is a free character counter tool that provides instant character count & word count statistics for a given text. TextUtils reports the number of words and characters. 
 Thus it is suitable for writing text with word/character limit.
 
-# Browser Compatible
-This word counter software works in any web browsers such as Chrome, Firefox, Internet Explorer, Safari.
-It suits to count characters in facebook, blog, books, excel document, pdf document, essays etc.
+# Other features
+There are many other features also like: it can toggle the case of the text entered, it can copy the text to the clipboard and can also clear the text entered in the box.
